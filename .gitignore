@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+trades.csv
+backtest.png
+*.log
